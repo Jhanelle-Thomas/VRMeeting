@@ -24,7 +24,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .banner-wrap div.paragraph { color: inherit; font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 500; line-height: 1.15; letter-spacing: 0.05em; margin: 15px auto; }
  .banner-wrap p { color: inherit; font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 500; line-height: 1.15; letter-spacing: 0.05em; margin: 15px auto; }
  .container, .wsite-footer { position: relative; width: 100%; max-width: 1200px; margin: 0 auto; box-sizing: border-box; }
- .main-wrap { width: 100%; background: #ffffff; }
+ .main-wrap { width: 100%; background: #ffffff; position: absolute }
  @media (min-width: 1025px) {
  body.no-header-page .main-wrap .wsite-section-wrap:first-child .wsite-section:not(.wsite-custom-background):not(.wsite-section-bg-color) .container, body.no-header-page .main-wrap > .wsite-section-content .container, body.no-header-page .main-wrap #secondlist > ul > .wsite-section-content .container { padding-top: 0; }
  }
